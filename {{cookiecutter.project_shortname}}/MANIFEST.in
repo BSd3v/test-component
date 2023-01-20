@@ -1,2 +1,0 @@
-recursive-include {{cookiecutter.project_shortname}}/** *.js *.css *.json *.html
-prune tests

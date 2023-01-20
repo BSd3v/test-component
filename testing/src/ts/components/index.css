@@ -1,0 +1,18 @@
+@font-face{
+    font-family: Comfortaa;
+    src: local('Comfortaa'),
+    url(../assets/fonts/comfortaa-normal-normal.ttf) format('truetype');
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: Comfortaa;
+    src: local('Comfortaa'),
+    url(../assets/fonts/comfortaa-bold-normal.ttf) format('truetype');
+    font-weight: bold;
+}
+
+.testing {
+    font-family: Comfortaa;
+    font-size: 25px;
+}

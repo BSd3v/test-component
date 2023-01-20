@@ -1,0 +1,13 @@
+Package: testing
+Title: testing
+Version: 1.0.0
+Description: testing
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/BSd3v/testing
+BugReports: https://github.com/BSd3v/testing/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true
